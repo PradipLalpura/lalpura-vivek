@@ -1,0 +1,16 @@
+{
+  "name": "Vivek Lalpura Portfolio",
+  "short_name": "Vivek Lalpura",
+  "description": "Civil engineering and construction estimation portfolio by Vivek Lalpura.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C0C",
+  "theme_color": "#0C0C0C",
+  "icons": [
+    {
+      "src": "/Monogram.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

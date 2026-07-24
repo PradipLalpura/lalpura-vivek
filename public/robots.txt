@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viveklalpura.vercel.app/sitemap.xml
